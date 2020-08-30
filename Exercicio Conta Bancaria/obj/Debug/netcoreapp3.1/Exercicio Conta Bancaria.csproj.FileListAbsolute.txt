@@ -1,0 +1,13 @@
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\obj\Debug\netcoreapp3.1\Exercicio Conta Bancaria.csprojAssemblyReference.cache
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\obj\Debug\netcoreapp3.1\Exercicio Conta Bancaria.AssemblyInfoInputs.cache
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\obj\Debug\netcoreapp3.1\Exercicio Conta Bancaria.AssemblyInfo.cs
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\obj\Debug\netcoreapp3.1\Exercicio Conta Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\bin\Debug\netcoreapp3.1\Exercicio Conta Bancaria.exe
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\bin\Debug\netcoreapp3.1\Exercicio Conta Bancaria.deps.json
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\bin\Debug\netcoreapp3.1\Exercicio Conta Bancaria.runtimeconfig.json
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\bin\Debug\netcoreapp3.1\Exercicio Conta Bancaria.runtimeconfig.dev.json
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\bin\Debug\netcoreapp3.1\Exercicio Conta Bancaria.dll
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\bin\Debug\netcoreapp3.1\Exercicio Conta Bancaria.pdb
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\obj\Debug\netcoreapp3.1\Exercicio Conta Bancaria.dll
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\obj\Debug\netcoreapp3.1\Exercicio Conta Bancaria.pdb
+C:\Users\tatia\source\repos\Exercicio Conta Bancaria\Exercicio Conta Bancaria\obj\Debug\netcoreapp3.1\Exercicio Conta Bancaria.genruntimeconfig.cache
